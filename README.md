@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifkhalil)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifkhalil&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
